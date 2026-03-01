@@ -1,2 +1,14 @@
-# Password-security-analyzer
-A cybersecurity tool that analyzes password strength using entropy estimation, pattern detection, and security best practices. It provides crack-time estimation and actionable recommendations to help users create stronger passwords and reduce authentication vulnerabilities.
+# Password Security Analyzer
+
+A simple cybersecurity tool that evaluates password strength using entropy estimation and security heuristics.
+
+## Features
+- Entropy calculation
+- Strength scoring
+- Crack time estimation
+- Security recommendations
+
+## Run
+
+```bash
+python password_analyzer.py
